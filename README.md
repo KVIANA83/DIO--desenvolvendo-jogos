@@ -3,10 +3,10 @@
 
 Todos os desafios do bootcamp neste mesmo repositório
 
-**Detona Ralph*
+*Detona Ralph*
 
-**Jogo de Memória Emoji*
+*Jogo de Memória Emoji*
 
-**Simulador de Piano*
+*Simulador de Piano*
 
-**Cartas de YU-GI-OH*
+*Cartas de YU-GI-OH*
